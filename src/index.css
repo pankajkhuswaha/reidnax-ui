@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  color: #1F1717;
+}
+body{
+  /* background: #FCF5ED; */
+
+}
+a{
+  text-decoration: none !important;
+}
+a.active{
+  background: #F4BF96;
+  color: #1F1717;
+}
